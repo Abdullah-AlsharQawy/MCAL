@@ -1,0 +1,4 @@
+
+
+
+#define  ADC    10

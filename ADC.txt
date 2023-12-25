@@ -2,3 +2,4 @@
 
 
 #define  ADC    10
+@#define ADC    11
